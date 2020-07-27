@@ -29,7 +29,7 @@ Android Studio es el entorno de desarrollo integrado oficial para la plataforma 
 ## diseño activity register
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/2diseñoactivityregister.png)
 ## Diseño activity main
-![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/3diseñoactivityregister.png)
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/3diseñoactivitymain.png)
 ## diseño de colores xml
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/4diseñodecolorsxml.png)
 ## Diseño de estilos xml
