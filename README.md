@@ -10,7 +10,7 @@ Integrantes
 ```
 # Explicación del proyecto y sus funcionalidades.
 nuestro proyecto de social EPN nos permite:
-- registro de 
+- registro de usuario.
 - inicio de secion por medio de correo y contraseña o por medio de gmail.
 - hacer publicaciones con imagenes.
 - dar like en las publicaciones.
