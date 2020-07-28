@@ -24,7 +24,7 @@ nuestro proyecto de social EPN nos permite:
 Android Studio es el entorno de desarrollo integrado oficial para la plataforma Android. Fue anunciado el 16 de mayo de 2013 en la conferencia Google I/O, y reemplazó a Eclipse como el IDE oficial para el desarrollo de aplicaciones para Android. La primera versión estable fue publicada en diciembre de 2014.
 
 # Modelos de celular, tablet, API fue probado/desarrrollado.
-
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/nokia.jpg) ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/xiaomi.jpg) 
 
 # Explicación de lo más importante del código
 ## diseño activity register
