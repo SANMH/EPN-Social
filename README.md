@@ -78,7 +78,36 @@ Declaraciones y id
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/26Metodoenviarahomedespuesdeiniciarsesioncongoogle.png)
 ## Metodo para validar si un usario existe con google y creamos coleccion nueva de datos
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/27Metodoparavalidarsiunusarioexistecongoogleycreamoscoleccionnuevadedatos.png)
-
+## Metodo para mensaje de esperando
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/28metodoparamensajedeesperando.png)
+## Configuracion de navegacion
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/29configuraciondenavegacion.png)
+## Navegacion creada
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/30navegacioncreada.png)
+## Fragments creados
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/31fragmentscreados.png)
+## Llamando a fragments desde nuestro home activity
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/32lamandoafragmeesdenuestrohomeactivity.png)
+## Diseñamos un activity para publicar post
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/33diseñamosunactivityparapublicarpost.png)
+## Layout del chat
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/34layoutdelchat.png)
+## Activity del chat con metodos para implementar mensajes
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/35activitydelchatconmetodosparaimplementarmensajes.png)
+## Adaptador de chat dond tengo metodos para saber si leyo el mensaje  y listener
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/36Adaptadordechatdondtengometodosparasabersileyoelmensajeylistener.png)
+## Message adapter donde instanciamos los diseños y contents del chat
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/37messageadapterdondeinstanciamoslosdiseñosycontentsdelchat.png)
+## Metodo para cnotificaciones de mensajes
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/27Metodoparavalidarsiunusarioexistecongoogleycreamoscoleccionnuevadedatos.png)
+## Metodo para cnotificaciones de mensajes
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/38metodoparacnotificacionesdemensajes.png)
+## Modelo de chat donde itero entre el chat de dos usuarios
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/39modelodechatdondeiteroentreelchatdedosusuarios.png)
+## Provider del chat donde voy guardando los arrays de cada mensaje
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/40providerdelchatdondevoyguardadolosarraysdecadamensaje.png)
+## Metodo que recibe el token del chat
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/241metodoquerecibeeltokendelchat.png)
 # Manual de uso.
 
 
