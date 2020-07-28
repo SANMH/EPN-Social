@@ -30,87 +30,85 @@ Android Studio es el entorno de desarrollo integrado oficial para la plataforma 
 [Manual](https://raw.githubusercontent.com/SANMH/EPN-Social/master/ManualUso.pdf) ------> Manual de usuario 
 
 # Explicación de lo más importante del código
-## diseño activity register
+## Diseño activity register (Fernando)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/2diseñoactivityregister.png)
-## Diseño activity main
+## Diseño activity main (Fernando)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/3diseñoactivitymain.png)
-## diseño de colores xml
+## Diseño de colores xml (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/4diseñodecolorsxml.png)
-## Diseño de estilos xml
+## Diseño de estilos xml(Bryan) (Fernando)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/5diseñodeestilosxml.png)
-Declaraciones y id
+## Declaraciones y id (Fernando)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/6declaracionesyid.png)
-## Metodo obtener texto de usuario
+## Metodo obtener texto de usuario (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/7metodoobtenertextodeusuario.png)
-## Dependencias
+## Dependencias (Bryan) (Fernando)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/8dependencias.png)
-## Validaciones de campos de registro
+## Validaciones de campos de registro (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/9validacionesdecamposderegistro.png)
-## Registrar app en firebase
+## Registrar app en firebase (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/10registrarappenfirebase.png)
-## Pegar archivo json aapp
+## Pegar archivo json aapp (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/11pegararchivojsonaapp.png)
-## Habilitar inicio de sesion con correo y contraseña
+## Habilitar inicio de sesion con correo y contraseña (Fernando)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/12habilitariniciodesesionconcorreoycontraseña.png)
-## Instanciar metodo de autenticacion
+## Instanciar metodo de autenticacion (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/13Instanciarmetodeautenticacion.png)
-## Funcion crear usuario recibiendo parametro
+## Funcion crear usuario recibiendo parametro (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/14Funcioncrearusuarioecimiendoparametr.png)
-## Registro y guardado de usuarios
+## Registro y guardado de usuarios (Fernando)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/15registroyguarddodeusuarios.png)
-## Integracion de Firestore
+## Integracion de Firestore (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/16IntegraciondeFirestore.png)
-## Firestore implementado en auth de firebase
+## Firestore implementado en auth de firebase (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/17Firestoreimplementadoenauthdefirebase.png)
-## Coleccion creada con usuario
+## Coleccion creada con usuario (Bryan)
  ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/18Coleccioncreadaconusuarios.png)
-## Regla para que usuarios puedan leer y escribir siempre y cuando tengan cuenta
+## Regla para que usuarios puedan leer y escribir siempre y cuando tengan cuenta (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/19reglaparaqueusuariospuedanleeryescribirsiempreycuandotengancuenta.png)
-## Metodo y variable inicializada para iniciar sesion con google
+## Metodo y variable inicializada para iniciar sesion con google (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/20metodoyvariableinicializadaparainiciarsesioncongoogle.png)
-## Constante para nuestro inicio de sesion con google
+## Constante para nuestro inicio de sesion con google (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/21Constanteparanuestroiniciodesesioncongoogle.png)
-## Instanciar metodo iniciar sesion google
+## Instanciar metodo iniciar sesion google (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/22instanciarmetooiniciarsesiongoogle.png)
-## Funcion iniciar sesion google
+## Funcion iniciar sesion google (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/23Funcioniniciarsesiongoogle.png)
-## Diseño iniciar sesion google
+## Diseño iniciar sesion google (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/24diseñoiniciarsesiongoogle.png)
-## Metodo para indicar si fallo la autenticacion de google
+## Metodo para indicar si fallo la autenticacion de google (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/25Metodoparaindicarsifalolaautenticaciondegoogle.png)
-## Metodo enviar a home despues de iniciar sesion con google
+## Metodo enviar a home despues de iniciar sesion con google (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/26Metodoenviarahomedespuesdeiniciarsesioncongoogle.png)
-## Metodo para validar si un usario existe con google y creamos coleccion nueva de datos
+## Metodo para validar si un usario existe con google y creamos coleccion nueva de datos (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/27Metodoparavalidarsiunusarioexistecongoogleycreamoscoleccionnuevadedatos.png)
-## Metodo para mensaje de esperando
+## Metodo para mensaje de esperando (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/28metodoparamensajedeesperando.png)
-## Configuracion de navegacion
+## Configuracion de navegacion (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/29configuraciondenavegacion.png)
-## Navegacion creada
+## Navegacion creada (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/30navegacioncreada.png)
-## Fragments creados
+## Fragments creados(Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/31fragmentscreados.png)
-## Llamando a fragments desde nuestro home activity
+## Llamando a fragments desde nuestro home activity (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/32lamandoafragmeesdenuestrohomeactivity.png)
-## Diseñamos un activity para publicar post
+## Diseñamos un activity para publicar post(Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/33diseñamosunactivityparapublicarpost.png)
-## Layout del chat
+## Layout del chat (Bryan) (Fernando)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/34layoutdelchat.png)
-## Activity del chat con metodos para implementar mensajes
+## Activity del chat con metodos para implementar mensajes (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/35activitydelchatconmetodosparaimplementarmensajes.png)
-## Adaptador de chat dond tengo metodos para saber si leyo el mensaje  y listener
+## Adaptador de chat dond tengo metodos para saber si leyo el mensaje  y listener (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/36Adaptadordechatdondtengometodosparasabersileyoelmensajeylistener.png)
-## Message adapter donde instanciamos los diseños y contents del chat
+## Message adapter donde instanciamos los diseños y contents del chat (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/37messageadapterdondeinstanciamoslosdiseñosycontentsdelchat.png)
-## Metodo para cnotificaciones de mensajes
-![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/27Metodoparavalidarsiunusarioexistecongoogleycreamoscoleccionnuevadedatos.png)
-## Metodo para cnotificaciones de mensajes
+## Metodo para notificaciones de mensajes (Bryan) 
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/38metodoparacnotificacionesdemensajes.png)
-## Modelo de chat donde itero entre el chat de dos usuarios
+## Modelo de chat donde itero entre el chat de dos usuarios (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/39modelodechatdondeiteroentreelchatdedosusuarios.png)
-## Provider del chat donde voy guardando los arrays de cada mensaje
+## Provider del chat donde voy guardando los arrays de cada mensaje (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/40providerdelchatdondevoyguardadolosarraysdecadamensaje.png)
-## Metodo que recibe el token del chat
+## Metodo que recibe el token del chat (Bryan)
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/41metodoquerecibeeltokendelchat.png)
 
 
