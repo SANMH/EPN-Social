@@ -17,7 +17,8 @@ nuestro proyecto de social EPN nos permite:
 - enviar y recibir mensajes
 - configurar mi perfil de usuario 
 
-![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/1.png)
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/1home.png) ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/2cate.png) 
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/3chat.png) ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/4perfil.png)
 
 # En que API se desarrollo y probó.
 Android Studio es el entorno de desarrollo integrado oficial para la plataforma Android. Fue anunciado el 16 de mayo de 2013 en la conferencia Google I/O, y reemplazó a Eclipse como el IDE oficial para el desarrollo de aplicaciones para Android. La primera versión estable fue publicada en diciembre de 2014.
@@ -109,7 +110,7 @@ Declaraciones y id
 ## Metodo que recibe el token del chat
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/41metodoquerecibeeltokendelchat.png)
 # Manual de uso.
-
+[Manual](https://raw.githubusercontent.com/SANMH/EPN-Social/master/ManualUso.pdf)
 
 # Fuentes de referencia.
 
