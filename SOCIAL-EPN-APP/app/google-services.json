@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1028550005290",
+    "firebase_url": "https://chatepn-f5001.firebaseio.com",
+    "project_id": "chatepn-f5001",
+    "storage_bucket": "chatepn-f5001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028550005290:android:6abae4c3df9b7b65bd2953",
+        "android_client_info": {
+          "package_name": "com.optic.socialmediagamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028550005290-qkifl6eb009h3tth0l8na400bbj8g01l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.optic.socialmediagamer",
+            "certificate_hash": "28f03e303f47be8dc14346ac2ea55383633a32ef"
+          }
+        },
+        {
+          "client_id": "1028550005290-4jm17v4tsjure5rb4ptds2077kqj030s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGVE9prkAXq8uVbn4duab6sxShHtcGNNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028550005290-4jm17v4tsjure5rb4ptds2077kqj030s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
