@@ -4,7 +4,7 @@ Integrantes
 - Fernando Sanmartin
 
 ## EPN Social
-![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/1.png)
+![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/buho.png)
 ```
 
 ```
