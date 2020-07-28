@@ -26,6 +26,9 @@ Android Studio es el entorno de desarrollo integrado oficial para la plataforma 
 # Modelos de celular, tablet, API fue probado/desarrrollado.
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/nokia.jpg) ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/xiaomi.jpg) 
 
+# Manual de uso.
+[Manual](https://raw.githubusercontent.com/SANMH/EPN-Social/master/ManualUso.pdf) ------> Manual de usuario 
+
 # Explicación de lo más importante del código
 ## diseño activity register
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/2diseñoactivityregister.png)
@@ -109,8 +112,7 @@ Declaraciones y id
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/40providerdelchatdondevoyguardadolosarraysdecadamensaje.png)
 ## Metodo que recibe el token del chat
 ![](https://raw.githubusercontent.com/SANMH/EPN-Social/master/assets/41metodoquerecibeeltokendelchat.png)
-# Manual de uso.
-[Manual](https://raw.githubusercontent.com/SANMH/EPN-Social/master/ManualUso.pdf)
+
 
 # Fuentes de referencia.
 
